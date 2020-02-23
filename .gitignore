@@ -11,8 +11,8 @@
 # production
 /build
 
-#private
-/src/firebase/firebase.utils.js
+# private
+firebase.utils.js
 
 # misc
 .DS_Store
