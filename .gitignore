@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/firebase
 
 # testing
 /coverage
@@ -11,8 +12,6 @@
 # production
 /build
 
-# private
-firebase.utils.js
 
 # misc
 .DS_Store
